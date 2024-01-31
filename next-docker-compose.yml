@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  next-src:
+    build:
+      context: ./next-src
+      dockerfile: Dockerfile
+      target: runner
+    # volumes:
+    #   ./next-src:/usr/src/next-src
+    command: yarn dev
+    ports:
+      - 3000:3000
+    env_file:
+      - ./next-src/.env
+    depends_on:
+      - web

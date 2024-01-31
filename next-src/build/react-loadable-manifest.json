@@ -1,0 +1,56 @@
+{
+  "../components/SiteLayout.js -> @/components/GoTop": {
+    "id": "../components/SiteLayout.js -> @/components/GoTop",
+    "files": [
+      "static/chunks/components_GoTop_js.js"
+    ]
+  },
+  "../components/SiteLayout.js -> @/components/SiteFooter": {
+    "id": "../components/SiteLayout.js -> @/components/SiteFooter",
+    "files": [
+      "static/chunks/components_SiteFooter_js.js"
+    ]
+  },
+  "../components/SiteLayout.js -> @/components/Toast": {
+    "id": "../components/SiteLayout.js -> @/components/Toast",
+    "files": [
+      "static/chunks/components_Toast_js.js"
+    ]
+  },
+  "../components/SiteLayout.js -> @/components/header-v2": {
+    "id": "../components/SiteLayout.js -> @/components/header-v2",
+    "files": [
+      "static/chunks/components_header-v2_index_js.js"
+    ]
+  },
+  "../components/SiteLayout.js -> @/components/side-bar": {
+    "id": "../components/SiteLayout.js -> @/components/side-bar",
+    "files": [
+      "static/chunks/components_side-bar_index_js.js"
+    ]
+  },
+  "../components/SiteLayout.js -> @/components/side-bar/SidebarRight": {
+    "id": "../components/SiteLayout.js -> @/components/side-bar/SidebarRight",
+    "files": [
+      "static/chunks/components_side-bar_SidebarRight_js.js"
+    ]
+  },
+  "../components/articles/FormCreateArticle.js -> react-quill": {
+    "id": "../components/articles/FormCreateArticle.js -> react-quill",
+    "files": [
+      "static/chunks/node_modules_react-quill_lib_index_js.js"
+    ]
+  },
+  "../node_modules/next/dist/client/index.js -> ../pages/_app": {
+    "id": "../node_modules/next/dist/client/index.js -> ../pages/_app",
+    "files": [
+      "static/chunks/node_modules_next_dist_pages__app_js.js"
+    ]
+  },
+  "../node_modules/next/dist/client/index.js -> ../pages/_error": {
+    "id": "../node_modules/next/dist/client/index.js -> ../pages/_error",
+    "files": [
+      "static/chunks/node_modules_next_dist_pages__error_js.js"
+    ]
+  }
+}
